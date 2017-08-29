@@ -1,0 +1,9 @@
+Building Homacoin
+
+See doc/readme-qt.rst for instructions on building Homacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Homacoin.
+
+See doc/build-*.txt for instructions on building homacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Homacoin.

@@ -1,0 +1,6 @@
+homacoin-qt usr/bin
+share/pixmaps/homacoin32.xpm usr/share/pixmaps
+share/pixmaps/homacoin16.xpm usr/share/pixmaps
+share/pixmaps/homacoin128.png usr/share/pixmaps
+debian/homacoin-qt.desktop usr/share/applications
+debian/homacoin-qt.protocol usr/share/kde4/services/
